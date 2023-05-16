@@ -1,0 +1,1603 @@
+company_name,job_title,min_experience,avg_salary
+TCS,Data Scientist,2,7.8
+Accenture,Data Scientist,2,12.8
+IBM,Data Scientist,2,13.4
+Cognizant,Data Scientist,2,9.8
+Capgemini,Data Scientist,2,8.6
+Infosys,Data Scientist,2,9.3
+Wipro,Data Scientist,2,9.7
+Tech Mahindra,Data Scientist,2,7.6
+Fractal Analytics,Data Scientist,2,15.9
+Deloitte,Data Scientist,2,14.2
+Ericsson,Data Scientist,3,14.6
+HCL Technologies,Data Scientist,2,9.8
+Amazon,Data Scientist,2,28.1
+UnitedHealth,Data Scientist,2,14.8
+Mu Sigma,Data Scientist,1,7.4
+Ab Inbev,Data Scientist,2,20.6
+L&T Infotech,Data Scientist,2,11.6
+Tiger Analytics,Data Scientist,2,14.8
+Optum,Data Scientist,2,16.6
+Ernst & Young,Data Scientist,2,12.4
+Mindtree,Data Scientist,2,10.6
+Walmart,Data Scientist,2,28.3
+DXC Technology,Data Scientist,2,10.0
+Microsoft Corporation,Data Scientist,1,32.1
+Genpact,Data Scientist,2,12.2
+Hewlett-Packard Enterprise,Data Scientist,2,16.6
+Ford Motor,Data Scientist,2,14.4
+Reliance jio,Data Scientist,1,15.6
+Verizon,Data Scientist,3,14.2
+IQVIA,Data Scientist,2,11.4
+Shell,Data Scientist,3,20.9
+PayPal,Data Scientist,3,27.7
+JP Morgan Chase,Data Scientist,2,20.5
+EXL Service,Data Scientist,1,14.0
+American Express,Data Scientist,2,17.7
+Vodafone Idea,Data Scientist,2,13.4
+HDFC Bank,Data Scientist,0,15.3
+Great Learning,Data Scientist,0,9.3
+Reliance Industries,Data Scientist,1,10.4
+ZS,Data Scientist,1,16.9
+Oracle,Data Scientist,2,16.3
+Novartis Healthcare,Data Scientist,2,21.9
+TheMathCompany,Data Scientist,2,10.5
+PwC,Data Scientist,2,12.6
+SAP,Data Scientist,2,17.4
+Legato Health Technologies,Data Scientist,1,14.3
+Impact Analytics,Data Scientist,0,9.0
+Innominds Software,Data Scientist,1,10.7
+Flipkart,Data Scientist,0,23.2
+Innodatatics,Data Scientist,0,4.5
+KPMG,Data Scientist,2,14.1
+NTT DATA,Data Scientist,2,7.7
+HSBC,Data Scientist,2,14.1
+Societe Generale,Data Scientist,1,18.2
+Mphasis,Data Scientist,2,8.9
+Mercedes-Benz Research & Development India,Data Scientist,2,14.1
+BEPEC Solutions,Data Scientist,1,4.9
+Brillio,Data Scientist,1,16.0
+ABC,Data Scientist,2,19.2
+WNS,Data Scientist,1,11.4
+Hexaware Technologies,Data Scientist,0,9.7
+International School of Engineering,Data Scientist,1,10.5
+Wells Fargo India,Data Scientist,2,15.4
+Kyndryl,Data Scientist,3,14.1
+eClerx,Data Scientist,2,9.3
+DBS Bank,Data Scientist,2,14.3
+Cyient,Data Scientist,2,10.4
+Nagarro,Data Scientist,1,12.1
+Freelancer.com,Data Scientist,1,7.1
+Cisco Systems,Data Scientist,2,19.0
+Bajaj Finserv,Data Scientist,1,11.9
+Dell,Data Scientist,1,17.0
+Dunnhumby,Data Scientist,1,12.9
+Honeywell Technology Solutions,Data Scientist,2,15.1
+Bristlecone,Data Scientist,1,9.0
+Sigmoid Analytics,Data Scientist,0,14.9
+Applied Materials,Data Scientist,2,14.2
+Citicorp,Data Scientist,2,19.2
+Siemens,Data Scientist,2,13.5
+MasterCard,Data Scientist,2,19.6
+Bosch Global Software Technologies,Data Scientist,2,11.9
+Wolters Kluwer,Data Scientist,0,12.5
+Birlasoft,Data Scientist,2,8.0
+Atos,Data Scientist,2,13.0
+Info Edge,Data Scientist,0,16.9
+VMware Software,Data Scientist,4,23.6
+Course5,Data Scientist,1,8.1
+Bridgei2i Analytics Solutions,Data Scientist,2,9.4
+Larsen & Toubro Limited,Data Scientist,1,9.4
+iNeuron.ai,Data Scientist,0,5.1
+Tredence,Data Scientist,2,14.4
+Enquero,Data Scientist,0,11.5
+R Systems International,Data Scientist,2,16.2
+UST,Data Scientist,3,9.8
+Cgi Group,Data Scientist,2,8.2
+Bank of America,Data Scientist,2,22.8
+Axis Bank,Data Scientist,1,11.7
+Ganit Business Solutions,Data Scientist,3,12.6
+Virtusa Consulting Services,Data Scientist,1,9.7
+ITC Infotech India,Data Scientist,2,10.9
+Gramener,Data Scientist,1,9.8
+Subex,Data Scientist,1,10.8
+Xoriant,Data Scientist,2,10.4
+Caterpillar Inc,Data Scientist,2,12.8
+ICICI Bank,Data Scientist,0,11.9
+Freelance Consultants,Data Scientist,1,10.2
+Sutherland Global Services,Data Scientist,1,8.5
+Prodapt Solutions,Data Scientist,1,6.9
+Rubixe,Data Scientist,0,4.7
+NDS InfoServ,Data Scientist,0,9.1
+Zensar Technologies,Data Scientist,1,8.2
+Fidelity National Information Services,Data Scientist,3,10.9
+KPIT Technologies,Data Scientist,1,7.7
+Citibank,Data Scientist,2,17.3
+ValueLabs,Data Scientist,2,14.6
+ABB Group,Data Scientist,2,13.0
+L&T Financial Services,Data Scientist,1,9.3
+Value c Consulting India,Data Scientist,2,5.2
+Lumiq.ai,Data Scientist,0,8.3
+Flip Robo Technologies,Data Scientist,1,4.7
+Philips,Data Scientist,3,17.9
+Nokia,Data Scientist,2,13.0
+Confidential,Data Scientist,1,8.5
+Tata Technologies,Data Scientist,0,6.6
+Nielsen,Data Scientist,1,7.0
+Kantar,Data Scientist,3,11.5
+Persistent Systems,Data Scientist,2,10.5
+Exl India,Data Scientist,1,14.0
+Blue Yonder,Data Scientist,3,20.6
+Brane Enterprises,Data Scientist,1,14.0
+Micron Technology,Data Scientist,0,16.4
+Indegene,Data Scientist,0,9.6
+CARS24.com,Data Scientist,1,20.3
+GlobalLogic,Data Scientist,2,14.6
+Maersk,Data Scientist,4,20.9
+Barclays,Data Scientist,2,18.2
+Indium Software,Data Scientist,1,7.9
+Celebal Technologies,Data Scientist,0,8.6
+Affine Analytics,Data Scientist,1,9.7
+Fidelity Investment,Data Scientist,3,23.4
+Jio Platforms,Data Scientist,2,13.9
+Happiest Minds Technologies,Data Scientist,1,8.7
+Adobe,Data Scientist,3,29.4
+CitiusTech,Data Scientist,2,10.4
+Scienaptic Systems,Data Scientist,0,14.6
+Boeing,Data Scientist,1,19.4
+Citigroup,Data Scientist,1,18.4
+Marlabs,Data Scientist,0,9.3
+TransOrg Analytics,Data Scientist,1,9.4
+T-Systems,Data Scientist,3,14.1
+Sopra Steria,Data Scientist,3,12.1
+Apexon,Data Scientist,2,7.5
+Embibe,Data Scientist,0,16.6
+Quest Global,Data Scientist,2,6.7
+Harman Connected Services,Data Scientist,3,13.6
+Exxon Mobil,Data Scientist,2,23.2
+Ugam Solution,Data Scientist,0,9.8
+L&T Technology Services,Data Scientist,1,8.7
+Credit Suisse,Data Scientist,2,17.4
+Iris Software,Data Scientist,5,18.5
+Delhivery,Data Scientist,1,15.6
+Abzooba India Infotech,Data Scientist,1,15.0
+Sonata Software,Data Scientist,1,8.1
+Incedo,Data Scientist,1,12.2
+Go-Jek,Data Scientist,3,30.5
+GE,Data Scientist,2,14.3
+Fiserv,Data Scientist,3,12.1
+UBS,Data Scientist,2,15.2
+Quantiphi Analytics Solutions,Data Scientist,0,9.8
+Amdocs,Data Scientist,2,8.5
+Apple,Data Scientist,2,33.6
+Oyo Rooms,Data Scientist,0,14.7
+iOPEX Technologies,Data Scientist,1,7.9
+Yash Technologies,Data Scientist,2,11.2
+Franklin Templeton Investments,Data Scientist,3,27.7
+N+A,Data Scientist,0,8.6
+ICICI Lombard General Insurance Company,Data Scientist,0,12.1
+Reserve Bank Information Technology,Data Scientist,2,15.9
+o9 Solutions,Data Scientist,1,13.8
+HTC Global Services,Data Scientist,1,6.4
+Accolite Digital,Data Scientist,0,14.5
+Wipro Digital,Data Scientist,1,11.1
+CSS Corp,Data Scientist,0,10.2
+Morgan Stanley,Data Scientist,2,18.1
+Zee Entertainment Enterprises,Data Scientist,1,16.7
+Ola Cabs,Data Scientist,1,21.9
+NatWest Markets,Data Scientist,1,16.0
+Myntra,Data Scientist,2,16.9
+TCS,Business Analyst,2,6.9
+Accenture,Business Analyst,1,7.0
+Genpact,Business Analyst,1,6.4
+Wipro,Business Analyst,2,8.6
+Cognizant,Business Analyst,1,8.6
+Deloitte,Business Analyst,1,7.8
+HCL Technologies,Business Analyst,1,6.6
+Evalueserve,Business Analyst,1,6.5
+Infosys,Business Analyst,1,8.9
+IBM,Business Analyst,2,8.3
+DXC Technology,Business Analyst,2,7.7
+Tech Mahindra,Business Analyst,2,7.6
+American Express,Business Analyst,1,8.3
+Capgemini,Business Analyst,2,9.1
+Societe Generale,Business Analyst,3,13.5
+EXL Service,Business Analyst,0,6.2
+Amazon,Business Analyst,2,11.3
+HSBC,Business Analyst,2,12.1
+ICICI Bank,Business Analyst,1,6.7
+JP Morgan Chase,Business Analyst,2,12.4
+Zomato,Business Analyst,1,10.7
+L&T Infotech,Business Analyst,2,9.7
+Shell,Business Analyst,4,19.5
+Barclays,Business Analyst,2,12.3
+Cgi Group,Business Analyst,2,6.9
+Oracle,Business Analyst,1,5.5
+Amdocs,Business Analyst,4,12.1
+Conduent,Business Analyst,2,6.1
+Fidelity National Information Services,Business Analyst,3,10.8
+HDFC Bank,Business Analyst,2,7.9
+Novo Nordisk,Business Analyst,4,11.5
+Axis Bank,Business Analyst,1,9.7
+Ernst & Young,Business Analyst,1,8.8
+Credit Suisse,Business Analyst,2,15.2
+Hewlett-Packard Enterprise,Business Analyst,2,6.7
+CG Foods,Business Analyst,0,4.8
+Quantiphi Analytics Solutions,Business Analyst,0,8.9
+NetCracker,Business Analyst,5,18.7
+Oyo Rooms,Business Analyst,0,10.2
+VMware Software,Business Analyst,3,9.8
+Mphasis,Business Analyst,1,10.0
+Exl India,Business Analyst,0,6.3
+Mindtree,Business Analyst,2,9.5
+Newgen Software Technologies,Business Analyst,2,9.3
+NTT DATA,Business Analyst,2,7.3
+Hexaware Technologies,Business Analyst,2,10.0
+Temenos,Business Analyst,2,8.8
+Wells Fargo India,Business Analyst,3,12.0
+Barclays Shared Services,Business Analyst,1,8.3
+Bridgei2i Analytics Solutions,Business Analyst,0,6.0
+Tata Technologies,Business Analyst,3,6.4
+Standard Chartered Bank,Business Analyst,2,12.0
+Mu Sigma,Business Analyst,1,6.9
+Virtusa Consulting Services,Business Analyst,2,10.6
+Allianz Technology,Business Analyst,3,8.2
+Kotak Mahindra Bank,Business Analyst,1,7.5
+Citicorp,Business Analyst,2,15.6
+BNP Paribas,Business Analyst,3,10.7
+UST,Business Analyst,3,11.1
+Flipkart,Business Analyst,1,12.3
+Barclays Global Service Centre,Business Analyst,1,11.7
+BNY Mellon,Business Analyst,3,8.5
+Optum,Business Analyst,2,8.6
+Ola Cabs,Business Analyst,0,11.3
+UBS,Business Analyst,2,14.5
+Odessa,Business Analyst,1,11.0
+bnp paribas india solutions,Business Analyst,3,10.2
+UnitedHealth,Business Analyst,2,8.3
+HCL Technologies BPO Services,Business Analyst,1,2.3
+Ramco Systems,Business Analyst,1,7.6
+Tredence,Business Analyst,0,6.9
+Novartis Healthcare,Business Analyst,1,10.0
+Atos Syntel,Business Analyst,2,7.6
+Cisco Systems,Business Analyst,2,12.5
+ITC Infotech India,Business Analyst,1,7.8
+Deutsche Bank,Business Analyst,2,9.1
+Dell,Business Analyst,2,7.0
+Paytm,Business Analyst,1,7.7
+3i Infotech,Business Analyst,1,6.1
+KPMG,Business Analyst,1,8.2
+Fiserv,Business Analyst,3,11.6
+Zensar Technologies,Business Analyst,2,6.7
+Legato Health Technologies,Business Analyst,3,8.0
+Swiggy,Business Analyst,1,13.2
+GEP Worldwide,Business Analyst,0,6.4
+Intellect Design Arena,Business Analyst,2,11.2
+Standard Chartered Global Business Services,Business Analyst,2,12.7
+ZS,Business Analyst,1,9.6
+Concentrix Corporation,Business Analyst,1,5.4
+Reliance jio,Business Analyst,1,6.8
+NatWest Group,Business Analyst,2,9.5
+IQVIA,Business Analyst,1,8.3
+PwC,Business Analyst,1,9.9
+ValueMomentum,Business Analyst,1,6.1
+ADP Solutions,Business Analyst,3,8.2
+Provana,Business Analyst,1,4.8
+ANR Software,Business Analyst,1,4.5
+WNS,Business Analyst,1,6.8
+Oracle Financial Services Software,Business Analyst,3,10.2
+RevGurus Info India,Business Analyst,0,8.3
+Sapiens,Business Analyst,2,12.5
+Etech Global Services,Business Analyst,1,6.4
+Citibank,Business Analyst,2,16.7
+Coforge,Business Analyst,5,16.1
+ABC,Business Analyst,3,13.6
+Merkle Sokrati,Business Analyst,0,4.5
+First Source,Business Analyst,1,4.4
+Meesho,Business Analyst,0,14.0
+Ebix Software India,Business Analyst,2,7.0
+Indus Valley Partners,Business Analyst,1,17.0
+Schlumberger,Business Analyst,3,14.5
+Capita,Business Analyst,1,5.9
+CRMnext,Business Analyst,1,6.6
+NeoSoft Technologies,Business Analyst,1,6.9
+NSE.IT,Business Analyst,1,6.8
+Nokia,Business Analyst,2,9.3
+Capco Technologies,Business Analyst,3,13.9
+eClerx,Business Analyst,1,3.7
+Affine Analytics,Business Analyst,0,6.8
+Exela Technologies,Business Analyst,3,8.3
+Analytics Quotient,Business Analyst,1,5.3
+NIIT Technologies,Business Analyst,3,11.1
+QualityKiosk Technologies,Business Analyst,2,7.7
+Fidelity Investment,Business Analyst,2,9.9
+Altisource,Business Analyst,2,5.5
+Polestar Solutions & Services India,Business Analyst,0,6.1
+Veeraraghavan & Company,Business Analyst,0,1.7
+Verizon,Business Analyst,3,10.5
+BYJU'S,Business Analyst,1,7.7
+Bank of America,Business Analyst,3,14.1
+Better.com,Business Analyst,1,7.8
+KJ System,Business Analyst,1,2.9
+ValueLabs,Business Analyst,4,11.3
+Xyz Company,Business Analyst,3,12.3
+IndusInd Bank,Business Analyst,2,8.0
+Vinculum Solutions,Business Analyst,1,8.8
+Confidential,Business Analyst,1,8.3
+Infosys BPM,Business Analyst,0,6.0
+General Mills,Business Analyst,2,9.7
+Yash Technologies,Business Analyst,4,8.9
+Shipco Transport,Business Analyst,1,3.4
+Aon,Business Analyst,2,5.4
+Persistent Systems,Business Analyst,4,12.5
+Unisys,Business Analyst,2,7.7
+Azentio,Business Analyst,0,7.1
+Synechron,Business Analyst,4,16.4
+Ford Motor,Business Analyst,2,8.1
+Birlasoft,Business Analyst,2,8.5
+Cybage,Business Analyst,5,14.6
+Lentra AI,Business Analyst,1,6.8
+N+A,Business Analyst,1,6.3
+IVY Comptech,Business Analyst,4,14.6
+S&P Global,Business Analyst,3,11.1
+Gartner,Business Analyst,1,14.2
+Acidaes Solutions,Business Analyst,2,7.0
+Udaan,Business Analyst,1,11.6
+Reliance Industries,Business Analyst,2,8.1
+Dell EMC,Business Analyst,2,6.6
+GlobalLogic,Business Analyst,2,9.0
+eClinicalWorks,Business Analyst,2,5.3
+ThoughtWorks,Business Analyst,2,14.7
+Landmark Group,Business Analyst,2,11.6
+Merilytics,Business Analyst,0,7.0
+Care Health Insurance,Business Analyst,0,5.9
+Epsilon,Business Analyst,2,9.7
+Gartner India Research and Advisory Services,Business Analyst,2,15.4
+Globant,Business Analyst,3,13.3
+Franklin Templeton Investments,Business Analyst,4,8.2
+Atidiv,Business Analyst,1,3.0
+Maersk,Business Analyst,4,8.9
+Pboplus Consulting Services,Business Analyst,0,4.0
+Reliance Retail,Business Analyst,1,7.0
+Larsen & Toubro Limited,Business Analyst,0,8.5
+TEKsystems,Business Analyst,3,12.0
+Hindustan Unilever,Business Analyst,2,7.1
+Tata Communications,Business Analyst,1,5.0
+Ameriprise Financial,Business Analyst,1,5.9
+Goldman Sachs,Business Analyst,0,14.9
+Factspan Analytics,Business Analyst,1,8.1
+MSC Technology India,Business Analyst,1,4.3
+Simplify Healthcare,Business Analyst,1,5.8
+CMS Computers Limited (INDIA),Business Analyst,1,4.0
+Fluentgrid,Business Analyst,2,5.5
+Bajaj Finserv,Business Analyst,1,9.0
+Ericsson,Business Analyst,3,9.7
+Sonata Software,Business Analyst,1,7.8
+CitiusTech,Business Analyst,2,9.0
+R1 RCM,Business Analyst,1,3.8
+TCS,Data Analyst,1,4.7
+Cognizant,Data Analyst,1,5.5
+Accenture,Data Analyst,1,5.2
+Capgemini,Data Analyst,0,4.6
+Wipro,Data Analyst,1,4.8
+GlobalLogic,Data Analyst,1,2.5
+Tech Mahindra,Data Analyst,1,4.6
+Amazon,Data Analyst,1,5.2
+Infosys,Data Analyst,1,5.7
+HCL Technologies,Data Analyst,1,4.5
+eClerx,Data Analyst,0,2.5
+IBM,Data Analyst,2,7.6
+Ernst & Young,Data Analyst,1,5.8
+Flipkart,Data Analyst,1,5.9
+Genpact,Data Analyst,1,4.7
+Optum,Data Analyst,2,12.8
+Concentrix Corporation,Data Analyst,1,3.9
+Deloitte,Data Analyst,1,7.6
+Zen3 Info Solutions,Data Analyst,1,3.1
+Unilog Content Solutions ( P),Data Analyst,1,2.5
+Cogencis Information Services,Data Analyst,1,1.7
+UnitedHealth,Data Analyst,2,10.7
+Qualsquad Infotech,Data Analyst,0,2.0
+NTT DATA,Data Analyst,1,4.3
+InnovAccer,Data Analyst,0,9.2
+Teleperformance,Data Analyst,1,2.4
+Mindtree,Data Analyst,1,5.6
+Ericsson,Data Analyst,2,5.8
+Apex CoVantage,Data Analyst,0,1.8
+Tiger Analytics,Data Analyst,0,8.8
+Cyient,Data Analyst,1,3.4
+Urjanet Energy Solutions,Data Analyst,1,2.7
+HSBC,Data Analyst,1,8.0
+DXC Technology,Data Analyst,1,5.4
+QUADRANT RESOURCE LLC,Data Analyst,1,3.0
+PwC,Data Analyst,0,6.3
+LatentView Analytics,Data Analyst,0,6.3
+EXL Service,Data Analyst,1,5.0
+KPMG,Data Analyst,1,6.7
+WNS,Data Analyst,1,5.2
+Myntra,Data Analyst,1,9.6
+IQVIA,Data Analyst,1,7.3
+Ugam Solution,Data Analyst,0,4.6
+Bharti Airtel,Data Analyst,1,4.6
+ICICI Bank,Data Analyst,1,4.9
+Walmart,Data Analyst,1,13.9
+JP Morgan Chase,Data Analyst,2,10.0
+Kantar,Data Analyst,1,4.2
+S&P Global,Data Analyst,1,4.4
+Axtria,Data Analyst,0,8.8
+L&T Infotech,Data Analyst,1,6.6
+Nielsen,Data Analyst,1,4.0
+Citicorp,Data Analyst,1,12.2
+Morningstar,Data Analyst,0,3.6
+TheMathCompany,Data Analyst,0,5.2
+Hewlett-Packard Enterprise,Data Analyst,2,6.6
+Datamatics Global Services,Data Analyst,0,2.1
+HERE Technologies,Data Analyst,0,2.6
+HDFC Bank,Data Analyst,1,4.6
+Nvidia,Data Analyst,1,3.3
+Dell,Data Analyst,1,5.8
+Zensar Technologies,Data Analyst,1,4.4
+Vodafone Idea,Data Analyst,2,5.7
+Ardem Data Services,Data Analyst,0,1.9
+Fiserv,Data Analyst,2,11.5
+Verificient Technologies,Data Analyst,0,2.2
+CRG Solutions,Data Analyst,1,5.8
+Oracle,Data Analyst,1,5.8
+Google,Data Analyst,1,15.5
+Swiggy,Data Analyst,1,4.4
+Kriya It,Data Analyst,0,1.6
+Reliance jio,Data Analyst,1,5.6
+Mphasis,Data Analyst,1,5.1
+Wells Fargo India,Data Analyst,1,10.3
+FE fundinfo,Data Analyst,0,3.3
+Oyo Rooms,Data Analyst,1,6.5
+Competent Software,Data Analyst,1,3.1
+Udaan,Data Analyst,1,5.0
+Continental Automotive Components,Data Analyst,1,2.6
+E2OPEN,Data Analyst,2,4.1
+IHS Markit,Data Analyst,1,5.8
+Fidelity National Financial,Data Analyst,0,3.3
+Proziod Analytics,Data Analyst,1,3.5
+American Express,Data Analyst,1,9.5
+Bajaj Finserv,Data Analyst,0,6.5
+Optimint Solutions,Data Analyst,0,2.2
+Mu Sigma,Data Analyst,1,7.8
+Course5,Data Analyst,0,3.5
+Paytm,Data Analyst,2,6.0
+Straive,Data Analyst,0,2.4
+Honeywell Technology Solutions,Data Analyst,2,9.4
+Intelligent Image Management Inc,Data Analyst,0,1.4
+UnitedLex,Data Analyst,1,3.1
+Fidelity National Information Services,Data Analyst,1,5.0
+Barclays,Data Analyst,1,11.2
+Novartis Healthcare,Data Analyst,2,10.3
+R1 RCM,Data Analyst,1,3.4
+Nokia,Data Analyst,0,4.2
+Bahar Infocons,Data Analyst,1,2.2
+Axis Bank,Data Analyst,0,8.2
+Freelancer.com,Data Analyst,1,3.7
+Virtusa Consulting Services,Data Analyst,1,4.2
+Aon,Data Analyst,0,4.6
+Conduent,Data Analyst,1,3.9
+Schneider Electric,Data Analyst,1,6.3
+Citibank,Data Analyst,0,10.4
+Sphera Solutions,Data Analyst,0,3.4
+Systech Solutions,Data Analyst,0,4.7
+Ford Motor,Data Analyst,1,9.6
+First Source,Data Analyst,1,2.7
+S&P Global Market Intelligence,Data Analyst,1,4.1
+UST,Data Analyst,2,7.4
+SG Analytics,Data Analyst,1,4.6
+Indegene,Data Analyst,1,9.0
+Cisco Systems,Data Analyst,3,9.0
+Huawei Technologies,Data Analyst,2,4.3
+Data Entry,Data Analyst,0,1.7
+Shell,Data Analyst,2,13.3
+Harman Connected Services,Data Analyst,2,6.0
+Johnson & Johnson,Data Analyst,1,5.0
+InSync Analytics,Data Analyst,1,2.5
+Larsen & Toubro Limited,Data Analyst,1,5.0
+Yardi Systems,Data Analyst,2,3.7
+Freelance Consultants,Data Analyst,1,3.8
+Brillio,Data Analyst,0,5.8
+Yodlee,Data Analyst,1,5.5
+ABC,Data Analyst,1,9.6
+JLL,Data Analyst,1,5.4
+Sapient Corporation,Data Analyst,2,7.9
+ZS,Data Analyst,1,10.6
+Uber,Data Analyst,1,13.0
+Numeratr,Data Analyst,0,3.0
+Yukthi Datasoft,Data Analyst,1,2.1
+Infosys BPM,Data Analyst,1,3.8
+Hexaware Technologies,Data Analyst,1,6.4
+Ganit Business Solutions,Data Analyst,0,6.0
+Fractal Analytics,Data Analyst,1,9.9
+CAMP Systems,Data Analyst,1,3.8
+Indium Software,Data Analyst,0,7.0
+Data Gyan,Data Analyst,0,1.8
+Randstad,Data Analyst,1,4.2
+Epsilon,Data Analyst,1,9.9
+N+A,Data Analyst,0,3.7
+The Smart Cube,Data Analyst,0,7.7
+Dataction Analytics,Data Analyst,0,2.6
+TSWRDC WOMEN'S DEGREE COLLEGE,Data Analyst,0,2.5
+LiquidHub,Data Analyst,0,2.6
+Sutherland Global Services,Data Analyst,1,4.8
+ValueLabs,Data Analyst,1,5.1
+HCL Technologies BPO Services,Data Analyst,1,2.9
+HUDL,Data Analyst,0,2.9
+Mercedes-Benz Research & Development India,Data Analyst,1,10.2
+Whitehat jr,Data Analyst,1,5.9
+Caterpillar Inc,Data Analyst,1,6.2
+General Mills,Data Analyst,0,7.0
+BYJU'S,Data Analyst,1,7.0
+Hinduja Global Solutions,Data Analyst,1,3.7
+Mercer,Data Analyst,0,4.8
+Bridgei2i Analytics Solutions,Data Analyst,0,5.3
+Annalect,Data Analyst,0,5.6
+Verizon,Data Analyst,1,11.4
+McKinsey & Company,Data Analyst,1,15.3
+ITC Infotech India,Data Analyst,0,7.9
+Vaco Binary Semantics,Data Analyst,0,3.7
+FedEx Express,Data Analyst,0,7.4
+Galytix Analytics,Data Analyst,0,6.0
+VeeTechnologies,Data Analyst,1,1.9
+APA Engineering,Data Analyst,0,2.0
+Tesco,Data Analyst,1,5.5
+UBS,Data Analyst,1,9.4
+BCG,Data Analyst,2,11.9
+Reliance Industries,Data Analyst,1,6.3
+Collegedunia,Data Analyst,1,4.0
+Thomson Reuters,Data Analyst,1,4.1
+Tata Communications,Data Analyst,0,3.9
+Cerner,Data Analyst,1,7.3
+Sandcube Analytics,Data Analyst,0,2.3
+Bank of America,Data Analyst,2,13.9
+Stats Systems India,Data Analyst,0,2.1
+Objectways Technologies,Data Analyst,0,1.5
+Target,Data Analyst,1,8.8
+PayPal,Data Analyst,1,17.2
+NISC Export Services,Data Analyst,1,3.2
+ANZ Banking Group,Data Analyst,2,9.8
+Hive,Data Analyst,0,4.2
+Crif High Mark Credit Information Services,Data Analyst,2,5.5
+Pacecom Technologies,Data Analyst,0,2.1
+TCS,Data Engineer,1,5.8
+IBM,Data Engineer,1,10.4
+L&T Infotech,Data Engineer,1,5.7
+Accenture,Data Engineer,1,9.0
+Cognizant,Data Engineer,1,7.5
+EC-Mobility,Data Engineer,1,2.1
+Capgemini,Data Engineer,1,7.4
+Infosys,Data Engineer,1,5.5
+Fractal Analytics,Data Engineer,2,11.8
+Wipro,Data Engineer,1,6.6
+Amazon,Data Engineer,2,22.0
+Quantiphi Analytics Solutions,Data Engineer,0,10.4
+Tech Mahindra,Data Engineer,2,6.5
+Mindtree,Data Engineer,1,6.0
+DXC Technology,Data Engineer,1,6.6
+Deloitte,Data Engineer,1,11.8
+Walmart,Data Engineer,3,22.1
+Optum,Data Engineer,2,11.1
+Shell,Data Engineer,1,17.2
+HCL Technologies,Data Engineer,1,9.0
+Futurense Technologies,Data Engineer,1,9.5
+Tiger Analytics,Data Engineer,1,14.0
+Teradata,Data Engineer,3,13.6
+Altimetrik,Data Engineer,1,12.6
+Ernst & Young,Data Engineer,2,12.8
+Maersk,Data Engineer,2,17.0
+UnitedHealth,Data Engineer,2,10.3
+Genpact,Data Engineer,1,6.8
+PayPal,Data Engineer,4,21.6
+Enquero,Data Engineer,1,9.5
+DataMetica,Data Engineer,0,6.4
+Ericsson,Data Engineer,2,10.6
+GE,Data Engineer,3,12.8
+Target,Data Engineer,0,12.9
+Brillio,Data Engineer,0,7.7
+ZS,Data Engineer,1,11.7
+Hewlett-Packard Enterprise,Data Engineer,2,8.4
+Reliance jio,Data Engineer,1,8.2
+Sapient Corporation,Data Engineer,2,13.5
+Larsen & Toubro Limited,Data Engineer,1,5.8
+JP Morgan Chase,Data Engineer,4,18.7
+Societe Generale,Data Engineer,2,16.8
+Bajaj Finserv,Data Engineer,0,10.9
+Bharti Airtel,Data Engineer,2,4.0
+Bank of America,Data Engineer,2,15.1
+Mphasis,Data Engineer,1,10.1
+Fragma Data Systems,Data Engineer,0,5.5
+NTT DATA,Data Engineer,2,10.4
+PwC,Data Engineer,1,10.0
+KPMG,Data Engineer,2,12.3
+UST,Data Engineer,1,9.8
+Virtusa Consulting Services,Data Engineer,1,9.0
+DBS Bank,Data Engineer,2,13.6
+Koch Business Solutions,Data Engineer,4,23.6
+Lowe's,Data Engineer,1,12.1
+BA Continuum,Data Engineer,4,16.5
+Dell,Data Engineer,1,12.8
+Data Semantics,Data Engineer,3,8.9
+BlazeClan Technologies,Data Engineer,0,5.5
+Microsoft Corporation,Data Engineer,3,25.1
+DataWeave,Data Engineer,1,8.2
+Celebal Technologies,Data Engineer,0,5.5
+SpringML,Data Engineer,1,9.7
+TEKsystems,Data Engineer,1,9.7
+NatWest Group,Data Engineer,2,20.4
+Saama Technologies,Data Engineer,2,9.7
+GE Aviation,Data Engineer,2,12.2
+Affine Analytics,Data Engineer,0,7.7
+Wells Fargo India,Data Engineer,3,15.2
+EXL Service,Data Engineer,2,10.3
+McKinsey & Company,Data Engineer,2,18.5
+Cisco Systems,Data Engineer,3,19.3
+IDFC FIRST Bank,Data Engineer,1,15.4
+ValueLabs,Data Engineer,1,10.3
+Paytm,Data Engineer,2,13.9
+Blackbuck Insights,Data Engineer,0,4.2
+Lumen Technologies,Data Engineer,1,6.6
+Micron Technology,Data Engineer,3,12.9
+GE Healthcare,Data Engineer,3,12.3
+IQVIA,Data Engineer,2,10.5
+SG Analytics,Data Engineer,0,7.3
+Wavicle Data Solutions,Data Engineer,2,5.1
+Mercedes-Benz Research & Development India,Data Engineer,1,13.1
+LatentView Analytics,Data Engineer,0,7.2
+Schlumberger,Data Engineer,2,13.7
+Adobe,Data Engineer,3,23.7
+Commonwealth Bank of Australia,Data Engineer,2,19.9
+NCR Corporation,Data Engineer,1,9.5
+ITC Infotech India,Data Engineer,1,6.8
+Novartis Healthcare,Data Engineer,2,15.0
+Legato Health Technologies,Data Engineer,2,10.8
+Honeywell Technology Solutions,Data Engineer,0,11.2
+Hexaware Technologies,Data Engineer,1,11.7
+Impetus Technologies,Data Engineer,1,13.1
+Bridgei2i Analytics Solutions,Data Engineer,0,6.7
+Verizon,Data Engineer,1,10.5
+Systech Solutions,Data Engineer,0,4.1
+Ab Inbev,Data Engineer,4,16.5
+Neal Analytics,Data Engineer,1,10.5
+TheMathCompany,Data Engineer,2,9.3
+Atos Syntel,Data Engineer,2,7.3
+Lumiq.ai,Data Engineer,0,8.1
+Axis Bank,Data Engineer,0,11.1
+Google,Data Engineer,3,45.3
+Maersk Line,Data Engineer,2,12.8
+AstraZeneca,Data Engineer,1,9.3
+Amdocs,Data Engineer,0,8.9
+MasterCard,Data Engineer,0,15.1
+Morgan Stanley,Data Engineer,3,20.5
+Tavant Technologies,Data Engineer,1,10.1
+Flipkart,Data Engineer,2,17.5
+Michelin,Data Engineer,0,9.8
+Concentrix Corporation,Data Engineer,1,3.7
+Siemens,Data Engineer,1,12.9
+Mu Sigma,Data Engineer,1,8.4
+Expedia,Data Engineer,4,27.6
+Decision Point,Data Engineer,0,5.9
+Adidas,Data Engineer,1,23.0
+Nokia,Data Engineer,1,10.7
+Oil Field Instrumentation,Data Engineer,6,6.9
+Atos,Data Engineer,2,8.5
+Bitwise Solutions,Data Engineer,0,6.1
+Ford Motor,Data Engineer,0,10.1
+Persistent Systems,Data Engineer,1,11.6
+Indium Software,Data Engineer,0,6.8
+Citicorp,Data Engineer,2,17.9
+The Data Team,Data Engineer,1,11.5
+Cittabase Solutions,Data Engineer,3,7.9
+NIKE,Data Engineer,3,21.3
+Kyndryl,Data Engineer,2,12.8
+Dunnhumby,Data Engineer,1,12.3
+Advance Auto Parts,Data Engineer,3,13.3
+Rackspace,Data Engineer,3,16.3
+Tredence,Data Engineer,2,11.4
+Expert Global Solutions,Data Engineer,0,2.1
+Cerner,Data Engineer,2,9.9
+Searce Cosourcing Services,Data Engineer,1,7.4
+Eli Lilly and Company,Data Engineer,3,18.4
+ValueMomentum,Data Engineer,1,10.6
+InfoStretch,Data Engineer,1,10.5
+Nagarro,Data Engineer,2,13.1
+KPI Partners,Data Engineer,1,12.0
+HSBC,Data Engineer,1,9.7
+Bosch Global Software Technologies,Data Engineer,1,7.1
+Axtria,Data Engineer,1,11.4
+Visa,Data Engineer,1,28.7
+Happiest Minds Technologies,Data Engineer,0,8.0
+BYJU'S,Data Engineer,1,9.7
+Yash Technologies,Data Engineer,0,5.3
+GE Digital,Data Engineer,4,12.6
+GSK Pharmaceuticals,Data Engineer,5,23.1
+Rakuten,Data Engineer,0,13.3
+InnovAccer,Data Engineer,1,8.2
+nThrive Global Solutions,Data Engineer,2,11.8
+AI Touch,Data Engineer,0,2.3
+Autodesk,Data Engineer,0,26.5
+Knoema IT Solutions,Data Engineer,0,3.3
+Ecolab Digital Center,Data Engineer,2,11.5
+Apple,Data Engineer,3,25.0
+AVASOFT,Data Engineer,0,4.0
+i2e Consulting,Data Engineer,2,13.1
+Birlasoft,Data Engineer,2,11.1
+EPAM Systems,Data Engineer,4,17.3
+Xyz Company,Data Engineer,1,12.3
+Colgate Palmolive,Data Engineer,1,10.7
+BCG,Data Engineer,2,17.2
+Apisero,Data Engineer,1,13.5
+Fidelity Investment,Data Engineer,1,13.3
+Oracle,Data Engineer,2,14.6
+Accion Labs,Data Engineer,3,18.1
+Dun & Bradstreet,Data Engineer,3,11.4
+Webhelp,Data Engineer,3,10.7
+Ags Infotech,Data Engineer,2,5.0
+Synechron,Data Engineer,4,17.3
+GEP Worldwide,Data Engineer,2,13.0
+Principal Global Services,Data Engineer,1,10.2
+Algonomy,Data Engineer,1,7.5
+Sigmoid Analytics,Data Engineer,1,15.0
+Vodafone Idea,Data Engineer,1,11.2
+Clairvoyant India,Data Engineer,2,10.5
+Aktrix Technologies,Data Engineer,0,4.1
+ThoughtWorks,Data Engineer,1,15.7
+DUNNHUMBY IT SERVICES INDIA,Data Engineer,1,11.9
+Baker Hughes,Data Engineer,3,14.8
+Denodo Technologies,Data Engineer,0,8.0
+Hashedin By Deloitte,Data Engineer,2,15.0
+Red Hat,Data Engineer,2,12.4
+HDFC Bank,Data Engineer,2,9.0
+Accenture,Senior Data Scientist,3,18.9
+TCS,Senior Data Scientist,4,16.7
+Cognizant,Senior Data Scientist,4,17.9
+Fractal Analytics,Senior Data Scientist,4,25.6
+Ab Inbev,Senior Data Scientist,3,28.0
+Wipro,Senior Data Scientist,4,16.1
+Deloitte,Senior Data Scientist,5,21.2
+Walmart,Senior Data Scientist,5,43.0
+Amazon,Senior Data Scientist,5,41.5
+UnitedHealth,Senior Data Scientist,4,23.0
+Ernst & Young,Senior Data Scientist,4,21.4
+Optum,Senior Data Scientist,5,26.2
+Impact Analytics,Senior Data Scientist,2,13.4
+Incedo,Senior Data Scientist,3,18.9
+IBM,Senior Data Scientist,5,24.4
+Target,Senior Data Scientist,2,23.8
+Infosys,Senior Data Scientist,4,18.1
+TVS Credit Services,Senior Data Scientist,4,14.7
+Ericsson,Senior Data Scientist,7,30.2
+Microsoft Corporation,Senior Data Scientist,4,56.4
+HCL Technologies,Senior Data Scientist,4,19.3
+Capgemini,Senior Data Scientist,4,16.8
+Dunnhumby,Senior Data Scientist,3,15.4
+Birlasoft,Senior Data Scientist,3,14.3
+Tech Mahindra,Senior Data Scientist,4,16.4
+Affine Analytics,Senior Data Scientist,1,9.9
+Wolters Kluwer,Senior Data Scientist,6,23.7
+Harman Connected Services,Senior Data Scientist,4,16.0
+L&T Infotech,Senior Data Scientist,2,20.0
+Reliance jio,Senior Data Scientist,4,30.0
+Sapient Corporation,Senior Data Scientist,2,21.1
+Coforge,Senior Data Scientist,4,15.0
+Lowe's,Senior Data Scientist,4,25.0
+Blue Yonder,Senior Data Scientist,2,31.6
+Bosch Global Software Technologies,Senior Data Scientist,2,24.1
+Nielsen,Senior Data Scientist,2,9.9
+Oracle,Senior Data Scientist,3,25.2
+Happiest Minds Technologies,Senior Data Scientist,5,16.4
+DXC Technology,Senior Data Scientist,7,17.1
+PayPal,Senior Data Scientist,6,40.7
+Citibank,Senior Data Scientist,4,22.8
+Innominds Software,Senior Data Scientist,4,18.6
+Bajaj Finserv,Senior Data Scientist,1,17.6
+Honeywell Technology Solutions,Senior Data Scientist,2,18.4
+eClerx,Senior Data Scientist,2,15.3
+VMware Software,Senior Data Scientist,2,23.1
+PwC,Senior Data Scientist,4,21.2
+EXL Service,Senior Data Scientist,3,19.5
+Mercedes-Benz Research & Development India,Senior Data Scientist,3,18.0
+Mindtree,Senior Data Scientist,5,17.8
+Wells Fargo India,Senior Data Scientist,5,23.1
+Genpact,Senior Data Scientist,4,24.2
+Course5,Senior Data Scientist,3,11.7
+JP Morgan Chase,Senior Data Scientist,5,27.7
+MasterCard,Senior Data Scientist,2,25.5
+GE Healthcare,Senior Data Scientist,3,28.0
+IHS Markit,Senior Data Scientist,5,22.5
+NIIT Technologies,Senior Data Scientist,2,15.3
+Gramener,Senior Data Scientist,2,14.4
+Ford Motor,Senior Data Scientist,4,17.6
+TheMathCompany,Senior Data Scientist,4,14.8
+Legato Health Technologies,Senior Data Scientist,4,21.2
+Dell,Senior Data Scientist,3,23.2
+Great Learning,Senior Data Scientist,3,12.3
+Morningstar,Senior Data Scientist,4,19.7
+Hewlett-Packard Enterprise,Senior Data Scientist,3,20.7
+Tredence,Senior Data Scientist,3,18.4
+UST,Senior Data Scientist,3,12.1
+ValueLabs,Senior Data Scientist,3,21.1
+Novartis Healthcare,Senior Data Scientist,5,30.5
+Vodafone Idea,Senior Data Scientist,4,22.7
+Nagarro,Senior Data Scientist,2,18.0
+HERE Technologies,Senior Data Scientist,6,27.1
+Globant,Senior Data Scientist,2,17.8
+Baker Hughes,Senior Data Scientist,3,27.4
+Tiger Analytics,Senior Data Scientist,5,22.2
+Epsilon,Senior Data Scientist,4,23.2
+AntWorks,Senior Data Scientist,3,20.6
+Altimetrik,Senior Data Scientist,4,18.3
+Info Edge,Senior Data Scientist,1,30.9
+Sigmoid Analytics,Senior Data Scientist,2,22.5
+Eli Lilly and Company,Senior Data Scientist,4,26.8
+Lam Research,Senior Data Scientist,3,16.5
+GE Aviation,Senior Data Scientist,5,22.1
+Iris Software,Senior Data Scientist,6,23.0
+Claim Genius,Senior Data Scientist,3,21.4
+ZS,Senior Data Scientist,1,18.0
+Mphasis,Senior Data Scientist,2,13.3
+NielsenIQ,Senior Data Scientist,3,8.7
+Mu Sigma,Senior Data Scientist,3,14.5
+BNY Mellon,Senior Data Scientist,1,16.9
+Yash Technologies,Senior Data Scientist,5,18.4
+Franklin Templeton Investments,Senior Data Scientist,7,27.3
+Philips,Senior Data Scientist,5,22.6
+DBS Bank,Senior Data Scientist,4,20.6
+International School of Engineering,Senior Data Scientist,9,20.2
+Johnson Controls,Senior Data Scientist,4,25.1
+Bajaj Finance,Senior Data Scientist,1,20.0
+Ganit Business Solutions,Senior Data Scientist,5,18.9
+Xoriant,Senior Data Scientist,6,18.6
+o9 Solutions,Senior Data Scientist,4,21.5
+Verizon,Senior Data Scientist,7,26.7
+Shell,Senior Data Scientist,6,29.8
+Zensar Technologies,Senior Data Scientist,4,18.2
+McKinsey & Company,Senior Data Scientist,6,18.2
+Apexon,Senior Data Scientist,4,10.3
+GE,Senior Data Scientist,4,23.1
+Johnson & Johnson,Senior Data Scientist,5,24.1
+Cerner,Senior Data Scientist,6,28.9
+Algonomy,Senior Data Scientist,2,28.3
+Ecolab Food Safety & Hygiene Solutions,Senior Data Scientist,4,13.9
+L&T Technology Services,Senior Data Scientist,4,15.2
+American Express,Senior Data Scientist,3,23.3
+Yum!,Senior Data Scientist,2,15.3
+Indium Software,Senior Data Scientist,2,14.5
+Cummins,Senior Data Scientist,3,23.2
+Eversana,Senior Data Scientist,4,14.3
+Paytm,Senior Data Scientist,3,31.6
+Citicorp,Senior Data Scientist,6,28.3
+Quantium Analytics,Senior Data Scientist,5,25.0
+MKS Vision,Senior Data Scientist,7,18.1
+Oyo Rooms,Senior Data Scientist,3,31.0
+Yodlee,Senior Data Scientist,2,32.1
+CitiusTech,Senior Data Scientist,7,17.8
+SAP,Senior Data Scientist,7,36.6
+Teleperformance,Senior Data Scientist,3,16.2
+V2 Solutions,Senior Data Scientist,2,8.5
+Dun & Bradstreet,Senior Data Scientist,2,11.9
+Nvidia,Senior Data Scientist,2,21.3
+AlgoAnalytics Financial Consultancy,Senior Data Scientist,3,18.9
+Reliance Industries,Senior Data Scientist,5,10.0
+Scienaptic Systems,Senior Data Scientist,6,19.7
+Freelance Consultants,Senior Data Scientist,7,31.7
+Decision Point,Senior Data Scientist,3,22.4
+IDFC FIRST Bank,Senior Data Scientist,4,20.8
+Thomson Reuters,Senior Data Scientist,4,18.4
+Synechron,Senior Data Scientist,3,12.0
+Akamai Technologies,Senior Data Scientist,4,27.3
+Quest Global,Senior Data Scientist,4,22.8
+GEP Worldwide,Senior Data Scientist,6,24.4
+Hinduja Global Solutions,Senior Data Scientist,3,15.6
+ACL Digital,Senior Data Scientist,3,18.8
+Innova Solutions,Senior Data Scientist,4,39.7
+Automatic Data Processing,Senior Data Scientist,9,34.4
+Brillio,Senior Data Scientist,4,21.2
+Boeing,Senior Data Scientist,8,27.6
+Flipkart,Senior Data Scientist,5,82.0
+ITC Infotech India,Senior Data Scientist,3,14.9
+Decision Minds,Senior Data Scientist,5,19.0
+Neal Analytics,Senior Data Scientist,4,23.6
+HALODOC,Senior Data Scientist,2,27.4
+Samsung Research,Senior Data Scientist,2,31.7
+Neewee Analytics,Senior Data Scientist,3,14.9
+Subex,Senior Data Scientist,4,25.2
+BCG,Senior Data Scientist,3,20.2
+Hitachi Vantara,Senior Data Scientist,7,24.6
+ZF Group,Senior Data Scientist,2,16.8
+DUNNHUMBY IT SERVICES INDIA,Senior Data Scientist,2,12.3
+Decimal Point Analytics,Senior Data Scientist,2,20.2
+Koch Business Solutions,Senior Data Scientist,4,39.6
+Noodle.Ai,Senior Data Scientist,2,21.7
+Publicis,Senior Data Scientist,5,18.0
+Ecolab Digital Center,Senior Data Scientist,4,22.7
+PepsiCo,Senior Data Scientist,8,29.5
+TEKsystems,Senior Data Scientist,3,18.2
+Chubb Group,Senior Data Scientist,4,16.6
+Amnet Digital,Senior Data Scientist,2,11.8
+Blend360,Senior Data Scientist,5,30.4
+Kyndryl,Senior Data Scientist,3,44.4
+HSBC,Senior Data Scientist,0,24.6
+Chegg,Senior Data Scientist,3,32.2
+First Source,Senior Data Scientist,10,29.0
+Caterpillar Inc,Senior Data Scientist,9,22.8
+Pitney Bowes,Senior Data Scientist,3,17.5
+MSCI,Senior Data Scientist,6,38.4
+Accolite Digital,Senior Data Scientist,2,12.8
+Adobe,Senior Data Scientist,8,40.0
+Omega Healthcare,Senior Data Scientist,7,14.1
+Western Union,Senior Data Scientist,4,22.2
+HDFC Bank,Senior Data Scientist,6,25.1
+Tata Motors,Senior Data Scientist,4,11.5
+EdgeVerve Systems,Senior Data Scientist,5,20.4
+Aditya Birla Group,Senior Data Scientist,7,28.0
+Commonwealth Bank of Australia,Senior Data Scientist,4,31.8
+Swiss Re,Senior Data Scientist,5,26.9
+TCS,Senior Business Analyst,3,7.7
+Accenture,Senior Business Analyst,3,10.3
+Evalueserve,Senior Business Analyst,2,9.8
+Cognizant,Senior Business Analyst,2,13.9
+HCL Technologies,Senior Business Analyst,4,11.9
+Tech Mahindra,Senior Business Analyst,4,9.9
+EXL Service,Senior Business Analyst,2,8.8
+Wipro,Senior Business Analyst,4,12.8
+Fidelity National Information Services,Senior Business Analyst,4,15.0
+Cgi Group,Senior Business Analyst,5,10.7
+L&T Infotech,Senior Business Analyst,3,11.7
+HSBC,Senior Business Analyst,6,17.1
+Capgemini,Senior Business Analyst,2,11.6
+Newgen Software Technologies,Senior Business Analyst,3,11.1
+IBM,Senior Business Analyst,3,12.4
+Quantiphi Analytics Solutions,Senior Business Analyst,2,15.0
+Tredence,Senior Business Analyst,2,11.2
+Conduent,Senior Business Analyst,4,8.8
+Temenos,Senior Business Analyst,5,13.2
+Amadeus,Senior Business Analyst,4,14.8
+Infosys,Senior Business Analyst,4,12.9
+American Express,Senior Business Analyst,2,9.2
+Deloitte,Senior Business Analyst,3,11.5
+DXC Technology,Senior Business Analyst,5,12.0
+Ernst & Young,Senior Business Analyst,3,14.1
+Exl India,Senior Business Analyst,1,9.0
+bnp paribas india solutions,Senior Business Analyst,6,14.6
+VMware Software,Senior Business Analyst,6,18.5
+Zensar Technologies,Senior Business Analyst,5,12.1
+Ramco Systems,Senior Business Analyst,3,12.7
+Dell,Senior Business Analyst,2,11.6
+JP Morgan Chase,Senior Business Analyst,4,12.3
+UnitedHealth,Senior Business Analyst,3,12.5
+BNP Paribas,Senior Business Analyst,6,15.8
+NTT DATA,Senior Business Analyst,4,10.9
+Flipkart,Senior Business Analyst,3,20.4
+Oracle,Senior Business Analyst,4,10.2
+Merkle Sokrati,Senior Business Analyst,1,7.0
+Societe Generale,Senior Business Analyst,5,15.2
+NatWest Group,Senior Business Analyst,3,11.1
+Allianz Technology,Senior Business Analyst,5,11.9
+Hexaware Technologies,Senior Business Analyst,4,9.7
+Amazon,Senior Business Analyst,3,20.1
+EPAM Systems,Senior Business Analyst,7,21.9
+Deutsche Bank,Senior Business Analyst,4,7.2
+BNY Mellon,Senior Business Analyst,4,8.7
+Legato Health Technologies,Senior Business Analyst,5,14.6
+Iris Software,Senior Business Analyst,7,20.5
+NetCracker,Senior Business Analyst,10,28.0
+Globant,Senior Business Analyst,5,16.7
+Genpact,Senior Business Analyst,3,8.0
+Broadridge Financial Solutions,Senior Business Analyst,3,10.8
+Credit Suisse,Senior Business Analyst,4,16.3
+Tiger Analytics,Senior Business Analyst,2,13.8
+Novartis Healthcare,Senior Business Analyst,3,13.0
+Standard Chartered Bank,Senior Business Analyst,3,15.0
+Wells Fargo India,Senior Business Analyst,5,15.5
+Shell,Senior Business Analyst,7,25.6
+Synechron,Senior Business Analyst,6,17.6
+GEP Worldwide,Senior Business Analyst,2,10.3
+3i Infotech,Senior Business Analyst,4,10.8
+ValueMomentum,Senior Business Analyst,4,12.0
+Mphasis,Senior Business Analyst,3,12.6
+Capita,Senior Business Analyst,5,12.6
+UST,Senior Business Analyst,5,13.4
+Citicorp,Senior Business Analyst,3,15.7
+Optum,Senior Business Analyst,4,13.3
+Barclays,Senior Business Analyst,3,14.2
+IQVIA,Senior Business Analyst,5,17.7
+Epsilon,Senior Business Analyst,5,14.5
+Etech Global Services,Senior Business Analyst,3,9.2
+Sapiens,Senior Business Analyst,5,18.0
+Concentrix Corporation,Senior Business Analyst,2,3.7
+IBS Software Services,Senior Business Analyst,2,6.2
+Hewlett-Packard Enterprise,Senior Business Analyst,3,7.9
+WNS,Senior Business Analyst,2,6.5
+eClerx,Senior Business Analyst,2,4.2
+Citibank,Senior Business Analyst,3,19.5
+Odessa,Senior Business Analyst,3,16.2
+Fidelity International,Senior Business Analyst,5,15.9
+Ameriprise Financial,Senior Business Analyst,4,9.6
+Tsys Card Tech Services,Senior Business Analyst,6,15.7
+Merilytics,Senior Business Analyst,0,7.8
+Barclays Global Service Centre,Senior Business Analyst,3,12.5
+Unisys,Senior Business Analyst,5,12.7
+Photon Interactive,Senior Business Analyst,4,9.9
+Tata Technologies,Senior Business Analyst,4,8.7
+Virtusa Consulting Services,Senior Business Analyst,5,15.8
+Xceedance,Senior Business Analyst,5,13.4
+Uber,Senior Business Analyst,2,13.4
+CitiusTech,Senior Business Analyst,4,14.4
+MetLife,Senior Business Analyst,0,6.0
+eMids Technologies,Senior Business Analyst,5,15.3
+Standard Chartered Global Business Services,Senior Business Analyst,7,18.4
+D Cube Analytics,Senior Business Analyst,2,11.7
+Novo Nordisk,Senior Business Analyst,6,15.7
+Affine Analytics,Senior Business Analyst,1,10.0
+Altisource,Senior Business Analyst,4,8.5
+Mu Sigma,Senior Business Analyst,1,8.6
+Meesho,Senior Business Analyst,2,19.3
+Gartner,Senior Business Analyst,2,18.7
+LearningMate Solutions,Senior Business Analyst,3,10.5
+R1 RCM,Senior Business Analyst,2,4.3
+Sopra Steria,Senior Business Analyst,3,14.6
+Fiserv,Senior Business Analyst,8,18.0
+Harman Connected Services,Senior Business Analyst,3,12.3
+Principal Global Services,Senior Business Analyst,4,13.3
+Danske IT,Senior Business Analyst,7,18.7
+Amdocs,Senior Business Analyst,6,17.6
+Allscripts,Senior Business Analyst,5,13.9
+Collabera Technologies,Senior Business Analyst,4,11.7
+Swiggy,Senior Business Analyst,2,18.4
+Birlasoft,Senior Business Analyst,3,9.8
+ValueLabs,Senior Business Analyst,6,14.9
+Orange Business Services,Senior Business Analyst,5,12.8
+Maersk,Senior Business Analyst,6,10.9
+Gartner India Research and Advisory Services,Senior Business Analyst,3,20.4
+First Source,Senior Business Analyst,2,5.1
+Barclays Shared Services,Senior Business Analyst,2,7.1
+ICICI Bank,Senior Business Analyst,5,12.3
+CES,Senior Business Analyst,5,7.4
+Mercer,Senior Business Analyst,2,5.5
+NatWest Markets,Senior Business Analyst,5,13.4
+Xoriant,Senior Business Analyst,6,17.5
+PwC,Senior Business Analyst,4,12.6
+Statestreet HCL Services,Senior Business Analyst,1,3.0
+First American Corporation,Senior Business Analyst,5,13.4
+MindGate Solutions,Senior Business Analyst,5,12.5
+Mindtree,Senior Business Analyst,4,16.9
+TEKsystems,Senior Business Analyst,5,15.6
+Decision Point,Senior Business Analyst,1,11.8
+Thomson Reuters,Senior Business Analyst,4,11.7
+Eurofins It Solutions,Senior Business Analyst,7,22.0
+Capco Technologies,Senior Business Analyst,7,18.2
+Hsbc Technology,Senior Business Analyst,6,18.7
+S&P Global,Senior Business Analyst,5,13.7
+General Mills,Senior Business Analyst,4,13.4
+Intellect Design Arena,Senior Business Analyst,6,17.2
+Dell EMC,Senior Business Analyst,3,10.5
+Ebix Software India,Senior Business Analyst,4,9.8
+Northern Trust Operating Services,Senior Business Analyst,3,6.2
+IVY Comptech,Senior Business Analyst,7,20.7
+Atos Syntel,Senior Business Analyst,6,13.8
+Provana,Senior Business Analyst,1,7.9
+Coforge,Senior Business Analyst,6,17.1
+HDFC Bank,Senior Business Analyst,4,13.2
+Commonwealth Bank of Australia,Senior Business Analyst,5,28.3
+Volante Technologies,Senior Business Analyst,9,22.3
+Hinduja Global Solutions,Senior Business Analyst,2,3.3
+Tavant Technologies,Senior Business Analyst,3,10.0
+Jocata Financial Advisory and Technology,Senior Business Analyst,6,14.3
+Persistent Systems,Senior Business Analyst,7,22.5
+Axis Bank,Senior Business Analyst,3,14.4
+Sabre,Senior Business Analyst,6,20.1
+MResult Services,Senior Business Analyst,4,8.2
+Franklin Templeton Investments,Senior Business Analyst,5,12.1
+Allsec Technologies,Senior Business Analyst,3,6.1
+MSC Technology India,Senior Business Analyst,3,6.7
+Sopra Banking Software,Senior Business Analyst,6,16.3
+Colgate Global Business Services,Senior Business Analyst,7,15.2
+Azentio,Senior Business Analyst,3,13.4
+Mastek,Senior Business Analyst,7,13.6
+Springer Nature,Senior Business Analyst,6,17.0
+Honeywell Technology Solutions,Senior Business Analyst,5,15.9
+Thryve Digital,Senior Business Analyst,5,10.0
+UBS,Senior Business Analyst,7,22.9
+Zomato,Senior Business Analyst,2,15.7
+Cybage,Senior Business Analyst,8,18.0
+Larsen & Toubro Limited,Senior Business Analyst,4,11.3
+Royal Bank of Scotland International,Senior Business Analyst,3,5.7
+Indegene,Senior Business Analyst,2,14.0
+Accion Labs,Senior Business Analyst,7,17.5
+Infor Global Solution,Senior Business Analyst,6,16.8
+Cygnet Infotech,Senior Business Analyst,4,8.6
+Oracle Financial Services Software,Senior Business Analyst,6,14.2
+ThoughtWorks,Senior Business Analyst,5,20.2
+Citigroup,Senior Business Analyst,3,15.6
+Unacademy,Senior Business Analyst,0,13.0
+State Street Corporation,Senior Business Analyst,2,10.7
+HCL Infosystems,Senior Business Analyst,3,9.0
+Ocwen Financial Solutions,Senior Business Analyst,4,9.9
+Vedantu,Senior Business Analyst,2,16.9
+Infinite Computer Solutions,Senior Business Analyst,4,9.3
+Clover Infotech,Senior Business Analyst,3,9.1
+BYJU'S,Senior Business Analyst,0,9.4
+Majesco,Senior Business Analyst,5,13.6
+R Systems International,Senior Business Analyst,6,14.8
+Accenture,Senior Data Analyst,3,9.9
+Capgemini,Senior Data Analyst,1,4.7
+TCS,Senior Data Analyst,3,6.0
+Unilog Content Solutions ( P),Senior Data Analyst,3,3.2
+Cognizant,Senior Data Analyst,2,6.2
+eClerx,Senior Data Analyst,1,4.3
+Concentrix Corporation,Senior Data Analyst,2,4.6
+Ernst & Young,Senior Data Analyst,3,9.5
+Flipkart,Senior Data Analyst,3,11.8
+Wipro,Senior Data Analyst,2,7.1
+Tech Mahindra,Senior Data Analyst,2,7.1
+HCL Technologies,Senior Data Analyst,2,6.2
+Ugam Solution,Senior Data Analyst,2,6.5
+Cerner,Senior Data Analyst,2,6.1
+Optum,Senior Data Analyst,5,16.2
+InnovAccer,Senior Data Analyst,2,15.2
+GlobalLogic,Senior Data Analyst,2,3.5
+Infosys,Senior Data Analyst,3,9.9
+Tiger Analytics,Senior Data Analyst,1,11.3
+UnitedHealth,Senior Data Analyst,5,17.2
+IBM,Senior Data Analyst,3,11.1
+Cyient,Senior Data Analyst,4,3.6
+Urjanet Energy Solutions,Senior Data Analyst,2,3.8
+Deloitte,Senior Data Analyst,3,10.2
+Epsilon,Senior Data Analyst,4,17.4
+Morningstar,Senior Data Analyst,2,5.0
+BCG,Senior Data Analyst,5,19.7
+Dell,Senior Data Analyst,3,11.7
+Walmart,Senior Data Analyst,4,29.0
+Course5,Senior Data Analyst,3,7.4
+IHS Markit,Senior Data Analyst,4,11.1
+Bharti Airtel,Senior Data Analyst,3,16.6
+L&T Infotech,Senior Data Analyst,3,12.2
+Wells Fargo India,Senior Data Analyst,3,13.7
+Axa XL,Senior Data Analyst,2,9.9
+Zen3 Info Solutions,Senior Data Analyst,3,4.3
+Honeywell Technology Solutions,Senior Data Analyst,4,14.6
+LiquidHub,Senior Data Analyst,2,3.5
+Proziod Analytics,Senior Data Analyst,3,4.9
+LatentView Analytics,Senior Data Analyst,2,10.8
+The Smart Cube,Senior Data Analyst,1,9.6
+Indium Software,Senior Data Analyst,3,14.4
+Citicorp,Senior Data Analyst,2,16.1
+Harman Connected Services,Senior Data Analyst,4,10.0
+Toluna,Senior Data Analyst,3,7.1
+FE fundinfo,Senior Data Analyst,2,4.8
+McKinsey & Company,Senior Data Analyst,3,20.7
+Amazon,Senior Data Analyst,2,8.6
+Ford Motor,Senior Data Analyst,2,15.0
+Subex,Senior Data Analyst,1,8.0
+Mindtree,Senior Data Analyst,2,8.0
+S&P Global,Senior Data Analyst,3,8.0
+EXL Service,Senior Data Analyst,2,7.6
+DXC Technology,Senior Data Analyst,5,14.0
+R1 RCM,Senior Data Analyst,3,5.4
+KPMG,Senior Data Analyst,1,8.0
+Zensar Technologies,Senior Data Analyst,4,6.3
+Schneider Electric,Senior Data Analyst,2,9.6
+WNS,Senior Data Analyst,2,6.1
+Genpact,Senior Data Analyst,3,6.2
+NTT DATA,Senior Data Analyst,2,7.2
+Ganit Business Solutions,Senior Data Analyst,0,7.4
+HSBC,Senior Data Analyst,2,11.9
+Synchrony,Senior Data Analyst,2,7.5
+Kantar,Senior Data Analyst,2,6.0
+Unire Business Solutions,Senior Data Analyst,0,1.9
+JP Morgan Chase,Senior Data Analyst,3,12.8
+Dynata,Senior Data Analyst,4,8.8
+PwC,Senior Data Analyst,3,11.1
+Indegene,Senior Data Analyst,2,15.6
+Lowe's,Senior Data Analyst,1,17.4
+Ameriprise Financial,Senior Data Analyst,3,14.2
+Barclays,Senior Data Analyst,3,13.8
+Continental Automotive Components,Senior Data Analyst,2,2.9
+Johnson & Johnson,Senior Data Analyst,4,12.0
+JLL,Senior Data Analyst,3,6.3
+Paytm,Senior Data Analyst,3,7.6
+Oracle,Senior Data Analyst,3,7.7
+HERE Technologies,Senior Data Analyst,4,5.1
+CAMP Systems,Senior Data Analyst,4,5.1
+Ericsson,Senior Data Analyst,2,8.9
+Novartis Healthcare,Senior Data Analyst,2,12.8
+E2OPEN,Senior Data Analyst,5,6.1
+Bank of America,Senior Data Analyst,5,19.2
+Nielsen,Senior Data Analyst,2,5.9
+VASTA BIO-INFORMATICS,Senior Data Analyst,1,3.6
+VeeTechnologies,Senior Data Analyst,2,3.0
+Nailbiter Research,Senior Data Analyst,0,4.7
+Hewlett-Packard Enterprise,Senior Data Analyst,3,8.8
+S&P Global Market Intelligence,Senior Data Analyst,5,6.9
+MakeMyTrip,Senior Data Analyst,4,7.5
+Advantmed,Senior Data Analyst,3,7.1
+Sutherland Global Services,Senior Data Analyst,2,6.6
+Citibank,Senior Data Analyst,2,17.4
+Mercer,Senior Data Analyst,1,4.6
+American Express,Senior Data Analyst,2,14.7
+Shadowfax Technologies,Senior Data Analyst,0,7.7
+Resilinc,Senior Data Analyst,4,5.8
+Bluemind Solutions,Senior Data Analyst,4,3.1
+Denave,Senior Data Analyst,2,6.7
+Cross-tab Marketing Services,Senior Data Analyst,0,5.0
+Wissend,Senior Data Analyst,0,1.9
+Infosys BPM,Senior Data Analyst,2,8.9
+Adobe,Senior Data Analyst,5,14.5
+BNY Mellon,Senior Data Analyst,3,10.4
+Shell,Senior Data Analyst,4,12.4
+Target,Senior Data Analyst,2,13.7
+Dell EMC,Senior Data Analyst,3,9.4
+comScore,Senior Data Analyst,5,19.7
+Fedby Information Services,Senior Data Analyst,3,4.6
+Experis IT,Senior Data Analyst,5,8.2
+Phoenix American Sales Focus Solutions India,Senior Data Analyst,3,5.7
+Collabera Technologies,Senior Data Analyst,2,8.7
+SG Analytics,Senior Data Analyst,3,7.0
+Mobikwik,Senior Data Analyst,3,13.9
+Ecolab Digital Center,Senior Data Analyst,6,17.6
+Oyo Rooms,Senior Data Analyst,4,11.4
+Randstad,Senior Data Analyst,3,6.9
+Clarivate Analytics,Senior Data Analyst,1,17.7
+Rapido,Senior Data Analyst,2,14.9
+Standard Chartered Bank,Senior Data Analyst,2,12.7
+Equifax,Senior Data Analyst,3,6.2
+Tesco,Senior Data Analyst,1,10.3
+QL2 Software,Senior Data Analyst,4,3.4
+Vodafone Idea,Senior Data Analyst,3,10.2
+IQVIA,Senior Data Analyst,3,12.4
+InSync Analytics,Senior Data Analyst,4,3.6
+Landis+Gyr,Senior Data Analyst,5,15.0
+DecisionTree Analytics & Services,Senior Data Analyst,3,12.8
+Yodlee,Senior Data Analyst,4,7.4
+Yash Technologies,Senior Data Analyst,7,5.8
+Teleperformance,Senior Data Analyst,2,3.0
+Wunderman,Senior Data Analyst,2,5.7
+Xiaomi,Senior Data Analyst,5,9.5
+Sentieo,Senior Data Analyst,2,5.9
+Fidelity National Information Services,Senior Data Analyst,4,9.7
+Thomson Reuters,Senior Data Analyst,3,10.5
+Maersk,Senior Data Analyst,3,7.1
+Home Credit Finance,Senior Data Analyst,3,7.6
+Standard Chartered Global Business Services,Senior Data Analyst,4,18.5
+Mr Cooper,Senior Data Analyst,2,13.0
+Hudson's bay Company,Senior Data Analyst,3,15.7
+S&P Capital IQ,Senior Data Analyst,3,6.4
+Merkle Sokrati,Senior Data Analyst,1,9.1
+Games24x7,Senior Data Analyst,5,17.9
+Iris Software,Senior Data Analyst,5,14.4
+Axis Bank,Senior Data Analyst,0,7.0
+Mphasis,Senior Data Analyst,4,10.3
+Whitehat jr,Senior Data Analyst,2,12.6
+Blinkit,Senior Data Analyst,1,16.7
+BUDDI.AI,Senior Data Analyst,3,4.2
+Cartesian Consulting,Senior Data Analyst,1,7.5
+Fuel Intelligence,Senior Data Analyst,2,4.5
+General Mills,Senior Data Analyst,4,12.2
+Cisco Systems,Senior Data Analyst,7,15.3
+TIAA Global Business Services,Senior Data Analyst,6,15.5
+Nailbiter,Senior Data Analyst,1,4.9
+Aon,Senior Data Analyst,2,7.0
+Aakash Institute,Senior Data Analyst,1,5.3
+D2L Pharma Research Solutions,Senior Data Analyst,4,4.3
+HARMAN,Senior Data Analyst,5,9.4
+Vaco Binary Semantics,Senior Data Analyst,1,5.0
+B3Intelligence,Senior Data Analyst,3,6.8
+Sapient Corporation,Senior Data Analyst,3,12.1
+Legato Health Technologies,Senior Data Analyst,6,14.3
+Fidelity National Financial,Senior Data Analyst,2,4.9
+Zomato,Senior Data Analyst,0,6.2
+Symphony Retail AI,Senior Data Analyst,3,10.5
+Myntra,Senior Data Analyst,5,11.9
+KPI Partners,Senior Data Analyst,6,13.9
+Reliance Retail,Senior Data Analyst,2,6.0
+Publicis,Senior Data Analyst,3,14.9
+TEKsystems,Senior Data Analyst,4,12.2
+Mobile Premier League,Senior Data Analyst,1,25.2
+Citigroup,Senior Data Analyst,2,17.0
+LearningMate Solutions,Senior Data Analyst,4,9.1
+Encore Capital Group,Senior Data Analyst,3,8.5
+MResult Services,Senior Data Analyst,5,8.4
+XL Catlin,Senior Data Analyst,3,14.9
+Williams Lea Tag,Senior Data Analyst,5,6.6
+Ninjacart,Senior Data Analyst,2,6.7
+Bajaj Finserv,Senior Data Analyst,3,11.4
+Collegedunia,Senior Data Analyst,1,4.3
+Arthur J. Gallagher & Co,Senior Data Analyst,3,5.5
+Athenahealth Technology,Senior Data Analyst,6,6.1
+ADP Solutions,Senior Data Analyst,3,10.0
+UST,Senior Data Analyst,5,10.4
+L&T Infotech,Senior Data Engineer,2,11.0
+Quantiphi Analytics Solutions,Senior Data Engineer,2,15.0
+IBM,Senior Data Engineer,3,16.9
+Maersk,Senior Data Engineer,5,21.1
+Optum,Senior Data Engineer,5,16.5
+Accenture,Senior Data Engineer,3,14.3
+TCS,Senior Data Engineer,5,13.3
+Wells Fargo India,Senior Data Engineer,7,21.9
+Altimetrik,Senior Data Engineer,4,15.2
+Coforge,Senior Data Engineer,4,15.3
+Cognizant,Senior Data Engineer,4,15.1
+Sapient Corporation,Senior Data Engineer,4,19.4
+Fractal Analytics,Senior Data Engineer,4,21.8
+Enquero,Senior Data Engineer,2,15.8
+Walmart,Senior Data Engineer,6,35.7
+Shell,Senior Data Engineer,3,23.3
+UnitedHealth,Senior Data Engineer,5,16.1
+Wipro,Senior Data Engineer,4,13.1
+Larsen & Toubro Limited,Senior Data Engineer,2,10.4
+Mindtree,Senior Data Engineer,2,6.7
+Capgemini,Senior Data Engineer,3,16.4
+Teradata,Senior Data Engineer,5,13.5
+Visa,Senior Data Engineer,3,27.3
+Ernst & Young,Senior Data Engineer,3,18.5
+Concentrix Corporation,Senior Data Engineer,2,5.4
+HCL Technologies,Senior Data Engineer,4,18.0
+Lowe's,Senior Data Engineer,5,18.9
+Indium Software,Senior Data Engineer,3,15.5
+Target,Senior Data Engineer,3,22.1
+Tech Mahindra,Senior Data Engineer,4,14.3
+Deloitte,Senior Data Engineer,4,16.3
+Amazon,Senior Data Engineer,6,32.0
+DXC Technology,Senior Data Engineer,5,14.7
+Tiger Analytics,Senior Data Engineer,5,22.1
+GE Healthcare,Senior Data Engineer,5,17.8
+Morgan Stanley,Senior Data Engineer,6,28.8
+EPAM Systems,Senior Data Engineer,4,23.1
+NIIT Technologies,Senior Data Engineer,2,15.0
+GE,Senior Data Engineer,4,19.3
+JLL,Senior Data Engineer,4,23.5
+Nagarro,Senior Data Engineer,3,24.1
+NIKE,Senior Data Engineer,5,31.0
+Micron Technology,Senior Data Engineer,5,19.8
+Nokia,Senior Data Engineer,5,17.5
+UST,Senior Data Engineer,4,14.5
+Wavicle Data Solutions,Senior Data Engineer,0,11.8
+KPI Partners,Senior Data Engineer,4,17.1
+Happiest Minds Technologies,Senior Data Engineer,5,16.3
+BCG,Senior Data Engineer,4,24.7
+Infosys,Senior Data Engineer,2,8.7
+JP Morgan Chase,Senior Data Engineer,5,22.3
+Philips,Senior Data Engineer,2,17.5
+Innova Solutions,Senior Data Engineer,7,27.1
+Legato Health Technologies,Senior Data Engineer,4,16.9
+DUNNHUMBY IT SERVICES INDIA,Senior Data Engineer,2,13.2
+Ecolab Digital Center,Senior Data Engineer,5,17.1
+Bosch Global Software Technologies,Senior Data Engineer,2,13.8
+Maersk Line,Senior Data Engineer,4,21.5
+Commonwealth Bank of Australia,Senior Data Engineer,7,31.7
+Cisco Systems,Senior Data Engineer,10,25.9
+Tredence,Senior Data Engineer,1,10.7
+Oracle,Senior Data Engineer,5,29.2
+Lenovo,Senior Data Engineer,4,13.5
+Photon Interactive,Senior Data Engineer,4,8.1
+Intersoft Data Labs,Senior Data Engineer,3,29.2
+Lumiq.ai,Senior Data Engineer,3,14.0
+Dell,Senior Data Engineer,2,13.2
+SpringML,Senior Data Engineer,2,11.1
+Verizon,Senior Data Engineer,4,17.6
+Dunnhumby,Senior Data Engineer,2,13.6
+Hewlett-Packard Enterprise,Senior Data Engineer,3,24.9
+Bajaj Finserv,Senior Data Engineer,1,14.4
+Ab Inbev,Senior Data Engineer,8,26.4
+Collabera Technologies,Senior Data Engineer,4,15.1
+GE Aviation,Senior Data Engineer,8,18.7
+News Technology Services,Senior Data Engineer,5,17.4
+ZS,Senior Data Engineer,2,18.6
+NTT DATA,Senior Data Engineer,2,19.9
+Koch Business Solutions,Senior Data Engineer,7,29.5
+PwC,Senior Data Engineer,4,17.0
+McKinsey & Company,Senior Data Engineer,5,26.6
+Indegene,Senior Data Engineer,3,15.7
+Johnson & Johnson,Senior Data Engineer,4,16.4
+Optum Global Solutions,Senior Data Engineer,7,18.5
+DBS Bank,Senior Data Engineer,5,20.4
+Bank of America,Senior Data Engineer,4,16.1
+American Express,Senior Data Engineer,7,28.6
+Nisum Technologies,Senior Data Engineer,3,20.1
+Mphasis,Senior Data Engineer,5,13.8
+Samsung,Senior Data Engineer,4,15.2
+MakeMyTrip,Senior Data Engineer,3,26.4
+Saama Technologies,Senior Data Engineer,4,16.5
+TO THE NEW,Senior Data Engineer,4,18.9
+PayPal,Senior Data Engineer,6,23.7
+Harman Connected Services,Senior Data Engineer,5,19.8
+ITC Infotech India,Senior Data Engineer,4,16.8
+IQVIA,Senior Data Engineer,4,17.3
+Luxoft,Senior Data Engineer,5,19.5
+Paytm,Senior Data Engineer,4,25.9
+Citicorp,Senior Data Engineer,4,23.1
+Axa XL,Senior Data Engineer,4,7.7
+TEKsystems,Senior Data Engineer,5,16.4
+HSBC,Senior Data Engineer,5,16.1
+AstraZeneca,Senior Data Engineer,9,14.0
+BlazeClan Technologies,Senior Data Engineer,4,10.0
+Data Semantics,Senior Data Engineer,7,15.4
+Birlasoft,Senior Data Engineer,4,12.0
+Xpo Logistics,Senior Data Engineer,6,16.3
+Renault Nissan Technology & Business Centre India,Senior Data Engineer,5,8.2
+DataWeave,Senior Data Engineer,3,13.5
+Eli Lilly and Company,Senior Data Engineer,7,25.4
+DataMetica,Senior Data Engineer,4,13.3
+InfoStretch,Senior Data Engineer,4,16.8
+GE Transportation,Senior Data Engineer,8,22.2
+Baker Hughes,Senior Data Engineer,8,21.4
+Intuit,Senior Data Engineer,8,39.0
+Expedia,Senior Data Engineer,6,34.8
+Yash Technologies,Senior Data Engineer,5,14.5
+IHS Markit,Senior Data Engineer,6,24.0
+Swiss Re,Senior Data Engineer,6,20.2
+Dun & Bradstreet,Senior Data Engineer,7,18.0
+Siemens Healthineers,Senior Data Engineer,4,20.0
+Apar Technologies,Senior Data Engineer,8,24.5
+GE Digital,Senior Data Engineer,7,16.9
+Riskonnect,Senior Data Engineer,4,8.5
+T-Systems,Senior Data Engineer,7,21.2
+NCR Corporation,Senior Data Engineer,4,16.0
+BA Continuum,Senior Data Engineer,7,19.6
+Softcrylic Technology Solutions,Senior Data Engineer,4,18.6
+Rakuten,Senior Data Engineer,5,23.2
+Honeywell Technology Solutions,Senior Data Engineer,2,22.5
+GlobalLogic,Senior Data Engineer,3,17.3
+Emirates Airlines,Senior Data Engineer,6,68.3
+ValueLabs,Senior Data Engineer,5,19.5
+GEP Worldwide,Senior Data Engineer,4,15.5
+Ameriprise Financial,Senior Data Engineer,3,11.7
+Gartner India Research and Advisory Services,Senior Data Engineer,3,20.0
+Information Evolution,Senior Data Engineer,3,3.4
+Alliance Data,Senior Data Engineer,4,16.9
+Franklin Templeton International Services,Senior Data Engineer,5,18.7
+Boeing,Senior Data Engineer,7,22.2
+Kloud 9,Senior Data Engineer,7,29.9
+Algonomy,Senior Data Engineer,8,15.2
+Tavant Technologies,Senior Data Engineer,4,13.7
+Cgi Group,Senior Data Engineer,5,12.0
+Societe Generale,Senior Data Engineer,7,21.9
+Mr Cooper,Senior Data Engineer,4,13.8
+ValueMomentum,Senior Data Engineer,4,19.4
+Clairvoyant India,Senior Data Engineer,5,16.1
+Mercedes-Benz Research & Development India,Senior Data Engineer,3,26.2
+Knoema IT Solutions,Senior Data Engineer,4,8.9
+Evalueserve,Senior Data Engineer,4,12.5
+Uber,Senior Data Engineer,7,66.3
+GGK Technologies,Senior Data Engineer,5,11.2
+Anju Software,Senior Data Engineer,4,16.9
+phData,Senior Data Engineer,4,20.0
+ACS Solution,Senior Data Engineer,3,15.2
+MassMutual,Senior Data Engineer,6,19.3
+ConcertAI,Senior Data Engineer,5,28.2
+Onepoint IT Consulting,Senior Data Engineer,4,10.3
+Sapient Global Markets,Senior Data Engineer,5,19.9
+Marlabs,Senior Data Engineer,2,14.2
+Red Hat,Senior Data Engineer,2,18.9
+EXL Service,Senior Data Engineer,3,18.7
+Advance Auto Parts,Senior Data Engineer,7,25.7
+Telstra,Senior Data Engineer,7,27.6
+GE Power,Senior Data Engineer,8,15.4
+Epsilon,Senior Data Engineer,8,23.8
+Cimpress,Senior Data Engineer,4,20.5
+Senvion,Senior Data Engineer,4,12.7
+USEReady,Senior Data Engineer,4,14.3
+Milliman,Senior Data Engineer,5,19.5
+Blackhawk Network,Senior Data Engineer,5,21.8
+Wabtec,Senior Data Engineer,9,20.0
+KrazyBee,Senior Data Engineer,3,10.3
+Roche Diagnostics,Senior Data Engineer,5,33.1
+Fidelity National Information Services,Senior Data Engineer,6,20.1
+XL Health,Senior Data Engineer,4,9.9
+ADP Solutions,Senior Data Engineer,4,14.3
+Hexaware Technologies,Senior Data Engineer,8,18.4
+Citibank,Senior Data Engineer,6,18.2
+Akamai Technologies,Senior Data Engineer,5,24.1
+Quest Global,Senior Data Engineer,8,20.3
+TCS,Machine Learning Engineer,1,5.8
+Quantiphi Analytics Solutions,Machine Learning Engineer,1,11.2
+Accenture,Machine Learning Engineer,2,9.9
+Wipro,Machine Learning Engineer,1,5.9
+Tiger Analytics,Machine Learning Engineer,0,13.6
+Capgemini,Machine Learning Engineer,2,6.3
+Infosys,Machine Learning Engineer,2,6.7
+Cognizant,Machine Learning Engineer,1,8.0
+HCL Technologies,Machine Learning Engineer,0,8.3
+Tech Mahindra,Machine Learning Engineer,1,7.3
+IBM,Machine Learning Engineer,3,9.3
+Deloitte,Machine Learning Engineer,2,13.7
+Amazon,Machine Learning Engineer,1,12.5
+Qualcomm,Machine Learning Engineer,0,19.4
+OptiSol Business Solutions,Machine Learning Engineer,0,5.6
+Mindtree,Machine Learning Engineer,1,5.3
+Virtusa Consulting Services,Machine Learning Engineer,0,5.1
+Ford Motor,Machine Learning Engineer,2,11.8
+Samsung Research,Machine Learning Engineer,1,17.4
+DXC Technology,Machine Learning Engineer,2,7.3
+UST,Machine Learning Engineer,2,6.7
+Reliance jio,Machine Learning Engineer,2,9.2
+Straive,Machine Learning Engineer,3,9.3
+e-Zest,Machine Learning Engineer,0,4.5
+Trantor,Machine Learning Engineer,1,9.4
+JP Morgan Chase,Machine Learning Engineer,3,16.9
+Freelancer.com,Machine Learning Engineer,0,5.1
+Jio Platforms,Machine Learning Engineer,0,10.9
+Monsoon CreditTech,Machine Learning Engineer,0,9.6
+L&T Technology Services,Machine Learning Engineer,1,5.3
+Sysark,Machine Learning Engineer,1,3.7
+Lucida Technologies,Machine Learning Engineer,1,3.6
+Ignitarium Technology Solutions,Machine Learning Engineer,0,5.8
+Oracle,Machine Learning Engineer,1,20.7
+Samsung,Machine Learning Engineer,0,16.8
+Sri Ayyan Kendra Vidyalaya International School,Machine Learning Engineer,1,6.1
+Reflections Info Systems,Machine Learning Engineer,1,3.6
+Qualitas Technologies,Machine Learning Engineer,1,4.7
+Allstate,Machine Learning Engineer,5,12.1
+Barclays,Machine Learning Engineer,3,19.4
+Ericsson,Machine Learning Engineer,2,11.9
+Confidential,Machine Learning Engineer,1,7.4
+Taglr Technologies,Machine Learning Engineer,0,6.3
+Takvaviya Analytics,Machine Learning Engineer,1,4.8
+AAIC Technologies,Machine Learning Engineer,0,9.1
+CIMCON Software,Machine Learning Engineer,2,6.6
+Siemens,Machine Learning Engineer,3,11.7
+Fractal Analytics,Machine Learning Engineer,4,19.4
+Metagogy Learning Systems,Machine Learning Engineer,0,3.7
+EEGRAB,Machine Learning Engineer,1,5.1
+Digitalmain,Machine Learning Engineer,1,4.4
+Danaher,Machine Learning Engineer,6,24.8
+Phenom,Machine Learning Engineer,1,12.6
+Orange Business Services,Machine Learning Engineer,5,16.1
+Calsoft,Machine Learning Engineer,1,10.9
+Hewlett-Packard Enterprise,Machine Learning Engineer,2,23.3
+Datamatics Global Services,Machine Learning Engineer,1,5.1
+Techolution,Machine Learning Engineer,4,10.0
+Intel,Machine Learning Engineer,1,14.4
+Accenture,Data Architect,8,24.6
+TCS,Data Architect,8,19.9
+Fiserv,Data Architect,3,11.2
+IBM,Data Architect,10,19.6
+Cognizant,Data Architect,10,19.6
+Wipro,Data Architect,8,20.2
+Globant,Data Architect,4,21.2
+Capgemini,Data Architect,10,22.6
+Tech Mahindra,Data Architect,13,17.3
+HCL Technologies,Data Architect,13,23.1
+UST,Data Architect,9,26.8
+Adobe,Data Architect,9,32.6
+Cgi Group,Data Architect,8,23.9
+Infosys,Data Architect,13,19.8
+JP Morgan Chase,Data Architect,8,35.1
+Genpact,Data Architect,7,26.1
+Ernst & Young,Data Architect,8,23.5
+Deloitte,Data Architect,11,27.6
+PepsiCo,Data Architect,10,33.6
+Anthology,Data Architect,11,25.5
+DXC Technology,Data Architect,14,19.8
+Atos,Data Architect,12,22.8
+ValueLabs,Data Architect,9,22.5
+Barclays,Data Architect,15,30.4
+Ericsson,Data Architect,8,17.5
+Vodafone Idea,Data Architect,10,25.8
+IQVIA,Data Architect,8,28.6
+Amdocs,Data Architect,5,12.5
+Mindtree,Data Architect,10,20.5
+Mphasis,Data Architect,13,20.9
+PwC,Data Architect,8,21.6
+Happiest Minds Technologies,Data Architect,12,27.6
+Shell,Data Architect,14,35.7
+Fidelity International,Data Architect,8,50.6
+Maveric Systems,Data Architect,9,19.0
+Webhelp,Data Architect,5,12.0
+Bajaj Finserv,Data Architect,6,33.1
+GlobalLogic,Data Architect,10,25.5
+L&T Infotech,Data Architect,11,24.8
+Ab Inbev,Data Architect,14,29.8
+Automatic Data Processing,Data Architect,7,36.5
+Brillio,Data Architect,14,28.3
+Whishworks It Consulting,Data Architect,13,29.8
+ITC Infotech India,Data Architect,12,29.0
+IVY Comptech,Data Architect,12,21.8
+Collabera Technologies,Data Architect,8,17.0
+Coforge,Data Architect,7,27.1
+Hitachi,Data Architect,21,40.0
+GE Power,Data Architect,7,16.7
+T-Systems,Data Architect,16,33.3
