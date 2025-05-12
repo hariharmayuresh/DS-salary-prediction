@@ -18,9 +18,9 @@ This project is a machine learning-based web application that predicts the salar
 
 - **Languages**: Python
 - **Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-- **Model**: Linear Regression / Random Forest Regressor
+- **Model**: Linear Regression
 - **Web Framework**: Streamlit
-- **Deployment**: Streamlit Cloud / Localhost
+- **Deployment**: Streamlit Cloud 
 
 ## ⚙️ Features
 
